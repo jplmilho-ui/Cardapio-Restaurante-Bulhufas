@@ -1,0 +1,140 @@
+{"_e":"root:init","_t":1789521249168,"format":"v0-jsonl","version":"57.0.22"}
+{"_e":"env:mode","_t":1789521249169,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789521249172,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789521249501,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789521249889,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789521250177,"plugins":[]}
+{"_e":"metro:server_log","_t":1789521251497,"level":"error","data":["An unknown error occurred while installing React Native DevTools. Details:\n\n[787:0915/221410.561863:FATAL:sandbox/linux/suid/client/setuid_sandbox_host.cc:166] The SUID sandbox helper binary was found, but is not configured correctly. Rather than run without sandboxing I'm aborting now. You need to make sure that /home/joaopaulo/.var/app/com.visualstudio.code/cache/dotslash/64/ed7915e5fef86802e862c274e17f780fa75388/React Native DevTools-linux-x64/chrome-sandbox is owned by root and has mode 4755.\n"]}
+{"_e":"metro:instantiate","_t":1789521254025,"atlas":false,"workers":3,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789521257165,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1789521257166,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789521257176,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789521258576,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789521258676,"id":"1","progress":0.010000000000000002,"total":3,"current":1}
+{"_e":"metro:bundling:progress","_t":1789521258724,"id":"1","progress":0.04000000000000001,"total":3,"current":2}
+{"_e":"metro:bundling:progress","_t":1789521258824,"id":"1","progress":0.04000000000000001,"total":9,"current":2}
+{"_e":"metro:bundling:progress","_t":1789521258857,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1789521258956,"id":"1","progress":0.1111111111111111,"total":12,"current":4}
+{"_e":"metro:bundling:progress","_t":1789521259146,"id":"1","progress":0.17361111111111113,"total":12,"current":5}
+{"_e":"metro:bundling:progress","_t":1789521259335,"id":"1","progress":0.17361111111111113,"total":37,"current":6}
+{"_e":"metro:bundling:progress","_t":1789521259354,"id":"1","progress":0.17361111111111113,"total":37,"current":7}
+{"_e":"metro:bundling:progress","_t":1789521259454,"id":"1","progress":0.17361111111111113,"total":44,"current":13}
+{"_e":"metro:bundling:progress","_t":1789521259557,"id":"1","progress":0.17361111111111113,"total":45,"current":18}
+{"_e":"metro:bundling:progress","_t":1789521259657,"id":"1","progress":0.17639999999999997,"total":50,"current":21}
+{"_e":"metro:bundling:progress","_t":1789521259757,"id":"1","progress":0.27040000000000003,"total":50,"current":26}
+{"_e":"metro:bundling:progress","_t":1789521259858,"id":"1","progress":0.2916,"total":50,"current":27}
+{"_e":"metro:bundling:progress","_t":1789521259958,"id":"1","progress":0.36,"total":50,"current":30}
+{"_e":"metro:bundling:progress","_t":1789521260102,"id":"1","progress":0.4096,"total":50,"current":32}
+{"_e":"metro:bundling:progress","_t":1789521260202,"id":"1","progress":0.42009602194787377,"total":54,"current":35}
+{"_e":"metro:bundling:progress","_t":1789521260385,"id":"1","progress":0.4444444444444444,"total":57,"current":38}
+{"_e":"metro:bundling:progress","_t":1789521260486,"id":"1","progress":0.5067509336397586,"total":59,"current":42}
+{"_e":"metro:bundling:progress","_t":1789521260586,"id":"1","progress":0.6136111111111111,"total":60,"current":47}
+{"_e":"metro:bundling:progress","_t":1789521260686,"id":"1","progress":0.6136111111111111,"total":68,"current":52}
+{"_e":"metro:bundling:progress","_t":1789521260786,"id":"1","progress":0.6136111111111111,"total":75,"current":56}
+{"_e":"metro:bundling:progress","_t":1789521260897,"id":"1","progress":0.6136111111111111,"total":95,"current":60}
+{"_e":"metro:bundling:progress","_t":1789521260998,"id":"1","progress":0.6136111111111111,"total":98,"current":60}
+{"_e":"metro:bundling:progress","_t":1789521261057,"id":"1","progress":0.6136111111111111,"total":98,"current":61}
+{"_e":"metro:bundling:progress","_t":1789521261158,"id":"1","progress":0.6136111111111111,"total":108,"current":62}
+{"_e":"metro:bundling:progress","_t":1789521261272,"id":"1","progress":0.6136111111111111,"total":108,"current":63}
+{"_e":"metro:bundling:progress","_t":1789521261372,"id":"1","progress":0.6136111111111111,"total":113,"current":70}
+{"_e":"metro:bundling:progress","_t":1789521261490,"id":"1","progress":0.6136111111111111,"total":118,"current":76}
+{"_e":"metro:bundling:progress","_t":1789521261592,"id":"1","progress":0.6136111111111111,"total":125,"current":80}
+{"_e":"metro:bundling:progress","_t":1789521261692,"id":"1","progress":0.6136111111111111,"total":132,"current":89}
+{"_e":"metro:bundling:progress","_t":1789521261792,"id":"1","progress":0.6136111111111111,"total":167,"current":94}
+{"_e":"metro:bundling:progress","_t":1789521261901,"id":"1","progress":0.6136111111111111,"total":173,"current":100}
+{"_e":"metro:bundling:progress","_t":1789521262004,"id":"1","progress":0.6136111111111111,"total":203,"current":103}
+{"_e":"metro:bundling:progress","_t":1789521262107,"id":"1","progress":0.6136111111111111,"total":211,"current":110}
+{"_e":"metro:bundling:progress","_t":1789521262219,"id":"1","progress":0.6136111111111111,"total":217,"current":120}
+{"_e":"metro:bundling:progress","_t":1789521262320,"id":"1","progress":0.6136111111111111,"total":229,"current":130}
+{"_e":"metro:bundling:progress","_t":1789521262449,"id":"1","progress":0.6136111111111111,"total":229,"current":131}
+{"_e":"metro:bundling:progress","_t":1789521262569,"id":"1","progress":0.6136111111111111,"total":231,"current":134}
+{"_e":"metro:bundling:progress","_t":1789521262671,"id":"1","progress":0.6136111111111111,"total":249,"current":141}
+{"_e":"metro:bundling:progress","_t":1789521262771,"id":"1","progress":0.6136111111111111,"total":250,"current":146}
+{"_e":"metro:bundling:progress","_t":1789521262876,"id":"1","progress":0.6136111111111111,"total":251,"current":152}
+{"_e":"metro:bundling:progress","_t":1789521262976,"id":"1","progress":0.6136111111111111,"total":254,"current":157}
+{"_e":"metro:bundling:progress","_t":1789521263088,"id":"1","progress":0.6136111111111111,"total":261,"current":164}
+{"_e":"metro:bundling:progress","_t":1789521263298,"id":"1","progress":0.6136111111111111,"total":261,"current":165}
+{"_e":"metro:bundling:progress","_t":1789521263399,"id":"1","progress":0.6136111111111111,"total":266,"current":167}
+{"_e":"metro:bundling:progress","_t":1789521263520,"id":"1","progress":0.6136111111111111,"total":314,"current":174}
+{"_e":"metro:bundling:progress","_t":1789521263637,"id":"1","progress":0.6136111111111111,"total":321,"current":177}
+{"_e":"metro:bundling:progress","_t":1789521263739,"id":"1","progress":0.6136111111111111,"total":326,"current":183}
+{"_e":"metro:bundling:progress","_t":1789521263839,"id":"1","progress":0.6136111111111111,"total":356,"current":194}
+{"_e":"metro:bundling:progress","_t":1789521263939,"id":"1","progress":0.6136111111111111,"total":370,"current":202}
+{"_e":"metro:bundling:progress","_t":1789521264039,"id":"1","progress":0.6136111111111111,"total":379,"current":211}
+{"_e":"metro:bundling:progress","_t":1789521264140,"id":"1","progress":0.6136111111111111,"total":383,"current":220}
+{"_e":"metro:bundling:progress","_t":1789521264240,"id":"1","progress":0.6136111111111111,"total":384,"current":227}
+{"_e":"metro:bundling:progress","_t":1789521264341,"id":"1","progress":0.6136111111111111,"total":386,"current":240}
+{"_e":"metro:bundling:progress","_t":1789521264441,"id":"1","progress":0.6136111111111111,"total":386,"current":253}
+{"_e":"metro:bundling:progress","_t":1789521264541,"id":"1","progress":0.6136111111111111,"total":388,"current":261}
+{"_e":"metro:bundling:progress","_t":1789521264644,"id":"1","progress":0.6136111111111111,"total":392,"current":270}
+{"_e":"metro:bundling:progress","_t":1789521264746,"id":"1","progress":0.6136111111111111,"total":396,"current":280}
+{"_e":"metro:bundling:progress","_t":1789521264847,"id":"1","progress":0.6136111111111111,"total":397,"current":288}
+{"_e":"metro:bundling:progress","_t":1789521264949,"id":"1","progress":0.6136111111111111,"total":399,"current":294}
+{"_e":"metro:bundling:progress","_t":1789521265048,"id":"1","progress":0.6136111111111111,"total":402,"current":300}
+{"_e":"metro:bundling:progress","_t":1789521265152,"id":"1","progress":0.6136111111111111,"total":405,"current":307}
+{"_e":"metro:bundling:progress","_t":1789521265265,"id":"1","progress":0.6136111111111111,"total":414,"current":311}
+{"_e":"metro:bundling:progress","_t":1789521265365,"id":"1","progress":0.6136111111111111,"total":429,"current":319}
+{"_e":"metro:bundling:progress","_t":1789521265469,"id":"1","progress":0.6136111111111111,"total":436,"current":328}
+{"_e":"metro:bundling:progress","_t":1789521265569,"id":"1","progress":0.6680636350368008,"total":438,"current":358}
+{"_e":"metro:bundling:progress","_t":1789521265670,"id":"1","progress":0.6994359428100303,"total":446,"current":373}
+{"_e":"metro:bundling:progress","_t":1789521265775,"id":"1","progress":0.6994359428100303,"total":451,"current":377}
+{"_e":"metro:bundling:progress","_t":1789521265881,"id":"1","progress":0.6994359428100303,"total":461,"current":385}
+{"_e":"metro:bundling:progress","_t":1789521265980,"id":"1","progress":0.7230532512081159,"total":461,"current":392}
+{"_e":"metro:bundling:progress","_t":1789521266080,"id":"1","progress":0.7421337681077941,"total":462,"current":398}
+{"_e":"metro:bundling:progress","_t":1789521266187,"id":"1","progress":0.7421337681077941,"total":469,"current":403}
+{"_e":"metro:bundling:progress","_t":1789521266287,"id":"1","progress":0.7591776602752408,"total":474,"current":413}
+{"_e":"metro:bundling:progress","_t":1789521266390,"id":"1","progress":0.7591776602752408,"total":484,"current":421}
+{"_e":"metro:bundling:progress","_t":1789521266495,"id":"1","progress":0.7591776602752408,"total":494,"current":428}
+{"_e":"metro:bundling:progress","_t":1789521266596,"id":"1","progress":0.7758228752168146,"total":495,"current":436}
+{"_e":"metro:bundling:progress","_t":1789521266698,"id":"1","progress":0.7758228752168146,"total":515,"current":444}
+{"_e":"metro:bundling:progress","_t":1789521266798,"id":"1","progress":0.7758228752168146,"total":518,"current":455}
+{"_e":"metro:bundling:progress","_t":1789521266898,"id":"1","progress":0.7821510909151658,"total":519,"current":459}
+{"_e":"metro:bundling:progress","_t":1789521266999,"id":"1","progress":0.7958427537765305,"total":519,"current":463}
+{"_e":"metro:bundling:progress","_t":1789521267098,"id":"1","progress":0.797315823916294,"total":523,"current":467}
+{"_e":"metro:bundling:progress","_t":1789521267187,"id":"1","progress":0.8007341086319916,"total":523,"current":468}
+{"_e":"metro:bundling:progress","_t":1789521267289,"id":"1","progress":0.8007341086319916,"total":525,"current":468}
+{"_e":"metro:bundling:progress","_t":1789521267327,"id":"1","progress":0.8007341086319916,"total":525,"current":469}
+{"_e":"metro:bundling:progress","_t":1789521267427,"id":"1","progress":0.8007341086319916,"total":530,"current":473}
+{"_e":"metro:bundling:progress","_t":1789521267527,"id":"1","progress":0.8072954943750353,"total":532,"current":478}
+{"_e":"metro:bundling:progress","_t":1789521267628,"id":"1","progress":0.8106768330600939,"total":532,"current":479}
+{"_e":"metro:bundling:progress","_t":1789521267728,"id":"1","progress":0.825210935452878,"total":535,"current":486}
+{"_e":"metro:bundling:progress","_t":1789521267836,"id":"1","progress":0.8391380318556471,"total":536,"current":491}
+{"_e":"metro:bundling:progress","_t":1789521267964,"id":"1","progress":0.8465368085018173,"total":538,"current":495}
+{"_e":"metro:bundling:progress","_t":1789521268066,"id":"1","progress":0.8678937136336148,"total":541,"current":504}
+{"_e":"metro:bundling:progress","_t":1789521268168,"id":"1","progress":0.8678937136336148,"total":546,"current":508}
+{"_e":"metro:bundling:progress","_t":1789521268268,"id":"1","progress":0.8935079119825244,"total":548,"current":518}
+{"_e":"metro:bundling:progress","_t":1789521268368,"id":"1","progress":0.900420906814428,"total":548,"current":520}
+{"_e":"metro:bundling:progress","_t":1789521268468,"id":"1","progress":0.9073605413181309,"total":548,"current":522}
+{"_e":"metro:bundling:progress","_t":1789521268583,"id":"1","progress":0.9146314049586778,"total":550,"current":526}
+{"_e":"metro:bundling:progress","_t":1789521268686,"id":"1","progress":0.921878281873556,"total":552,"current":530}
+{"_e":"metro:bundling:progress","_t":1789521268789,"id":"1","progress":0.929351482842503,"total":556,"current":536}
+{"_e":"metro:bundling:progress","_t":1789521268889,"id":"1","progress":0.929351482842503,"total":570,"current":543}
+{"_e":"metro:bundling:progress","_t":1789521268989,"id":"1","progress":0.929351482842503,"total":574,"current":551}
+{"_e":"metro:bundling:progress","_t":1789521269094,"id":"1","progress":0.9348935886073645,"total":574,"current":555}
+{"_e":"metro:bundling:progress","_t":1789521269201,"id":"1","progress":0.9552167684444389,"total":574,"current":561}
+{"_e":"metro:bundling:progress","_t":1789521269301,"id":"1","progress":0.9688869598999624,"total":574,"current":565}
+{"_e":"metro:bundling:progress","_t":1789521269402,"id":"1","progress":0.9861832402704479,"total":577,"current":573}
+{"_e":"metro:bundling:progress","_t":1789521269504,"id":"1","progress":0.9897172919545116,"total":582,"current":579}
+{"_e":"metro:bundling:progress","_t":1789521269604,"id":"1","progress":0.9965665261392757,"total":582,"current":581}
+{"_e":"metro:bundling:progress","_t":1789521271133,"id":"1","progress":0.999,"total":582,"current":582}
+{"_e":"metro:bundling:progress","_t":1789521271244,"id":"1","progress":0.999,"total":586,"current":584}
+{"_e":"metro:bundling:progress","_t":1789521271287,"id":"1","progress":0.999,"total":586,"current":585}
+{"_e":"metro:bundling:progress","_t":1789521271387,"id":"1","progress":0.999,"total":586,"current":586}
+{"_e":"metro:bundling:done","_t":1789521271650,"id":"1","total":586,"ms":14484.638879}
+{"_e":"metro:client_log","_t":1789521272275,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789521272276,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1789521475129,"level":"error","data":["[ReferenceError: paddi is not defined]","\n\n\u001b[1mCode: CarrinhoTela.js\u001b[22m\n\u001b[0m \u001b[90m 141 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'800'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 142 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 143 |\u001b[39m     paddi\n \u001b[90m     |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 144 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 145 |\u001b[39m\n \u001b[90m 146 |\u001b[39m   listContent\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CarrinhoTela.js:143:5\u0007src/screens/CarrinhoTela.js:143:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789521477989,"level":"error","data":["[ReferenceError: paddingLeft is not defined]","\n\n\u001b[1mCode: CarrinhoTela.js\u001b[22m\n\u001b[0m \u001b[90m 141 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'800'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 142 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 143 |\u001b[39m     paddingLeft\n \u001b[90m     |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 144 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 145 |\u001b[39m\n \u001b[90m 146 |\u001b[39m   listContent\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CarrinhoTela.js:143:5\u0007src/screens/CarrinhoTela.js:143:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789521491831,"level":"error","data":["[ReferenceError: p is not defined]","\n\n\u001b[1mCode: CarrinhoTela.js\u001b[22m\n\u001b[0m \u001b[90m 141 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'800'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 142 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 143 |\u001b[39m     p\n \u001b[90m     |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 144 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 145 |\u001b[39m\n \u001b[90m 146 |\u001b[39m   listContent\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CarrinhoTela.js:143:5\u0007src/screens/CarrinhoTela.js:143:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789521495896,"level":"error","data":["[ReferenceError: p is not defined]","\n\n\u001b[1mCode: CarrinhoTela.js\u001b[22m\n\u001b[0m \u001b[90m 141 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'80'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 142 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 143 |\u001b[39m     p\n \u001b[90m     |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 144 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 145 |\u001b[39m\n \u001b[90m 146 |\u001b[39m   listContent\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CarrinhoTela.js:143:5\u0007src/screens/CarrinhoTela.js:143:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789521499492,"level":"error","data":["[ReferenceError: p is not defined]","\n\n\u001b[1mCode: CarrinhoTela.js\u001b[22m\n\u001b[0m \u001b[90m 141 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'800'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 142 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 143 |\u001b[39m     p\n \u001b[90m     |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 144 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 145 |\u001b[39m\n \u001b[90m 146 |\u001b[39m   listContent\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CarrinhoTela.js:143:5\u0007src/screens/CarrinhoTela.js:143:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:bundling:failed","_t":1789521526740,"id":null,"message":"SyntaxError: /home/joaopaulo/Games/Cardapio_JoaoMilho_MuriloHenrique/cardapio/src/screens/CardapioTela.js: Unexpected token, expected \",\" (97:6)\n\n   95 |     fontWeight: '800',\n   96 |     color: colors.surface,\n>  97 |     P addingLeft: 200\n      |       ^\n   98 |   },\n   99 |\n  100 |   subtitle: {","importStack":null,"filename":"src/screens/CardapioTela.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1789521526744,"level":"error","data":["[TransformError: SyntaxError: /home/joaopaulo/Games/Cardapio_JoaoMilho_MuriloHenrique/cardapio/src/screens/CardapioTela.js: Unexpected token, expected \",\" (97:6)\n\n   95 |     fontWeight: '800',\n   96 |     color: colors.surface,\n>  97 |     P addingLeft: 200\n      |       ^\n   98 |   },\n   99 |\n  100 |   subtitle: {]"]}
+{"_e":"metro:bundling:failed","_t":1789521569247,"id":null,"message":"SyntaxError: /home/joaopaulo/Games/Cardapio_JoaoMilho_MuriloHenrique/cardapio/src/screens/CardapioTela.js: Unexpected token (90:17)\n\n  88 |     fontWeight: '800',\n  89 |     color: colors.surface,\n> 90 |     paddingLeft: ,\n     |                  ^\n  91 |   },\n  92 |\n  93 |   title: {","importStack":null,"filename":"src/screens/CardapioTela.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1789521569249,"level":"error","data":["[TransformError: SyntaxError: /home/joaopaulo/Games/Cardapio_JoaoMilho_MuriloHenrique/cardapio/src/screens/CardapioTela.js: Unexpected token (90:17)\n\n  88 |     fontWeight: '800',\n  89 |     color: colors.surface,\n> 90 |     paddingLeft: ,\n     |                  ^\n  91 |   },\n  92 |\n  93 |   title: {]"]}
+{"_e":"metro:client_log","_t":1789521593818,"level":"error","data":["[ReferenceError: Pas is not defined]","\n\n\u001b[1mCode: CardapioTela.js\u001b[22m\n\u001b[0m \u001b[90m 88 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'800'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 89 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 90 |\u001b[39m     \u001b[33mPas\u001b[39m\n \u001b[90m    |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 91 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 92 |\u001b[39m\n \u001b[90m 93 |\u001b[39m   title\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CardapioTela.js:90:5\u0007src/screens/CardapioTela.js:90:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789521595333,"level":"error","data":["[ReferenceError: Padd is not defined]","\n\n\u001b[1mCode: CardapioTela.js\u001b[22m\n\u001b[0m \u001b[90m 88 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'800'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 89 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 90 |\u001b[39m     \u001b[33mPadd\u001b[39m\n \u001b[90m    |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 91 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 92 |\u001b[39m\n \u001b[90m 93 |\u001b[39m   title\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CardapioTela.js:90:5\u0007src/screens/CardapioTela.js:90:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789521596909,"level":"error","data":["[ReferenceError: paddingRight is not defined]","\n\n\u001b[1mCode: CardapioTela.js\u001b[22m\n\u001b[0m \u001b[90m 88 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'800'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 89 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 90 |\u001b[39m     paddingRight\n \u001b[90m    |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 91 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 92 |\u001b[39m\n \u001b[90m 93 |\u001b[39m   title\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CardapioTela.js:90:5\u0007src/screens/CardapioTela.js:90:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789521599247,"level":"error","data":["[ReferenceError: p is not defined]","\n\n\u001b[1mCode: CarrinhoTela.js\u001b[22m\n\u001b[0m \u001b[90m 141 |\u001b[39m     fontWeight\u001b[33m:\u001b[39m \u001b[32m'800'\u001b[39m\u001b[33m,\u001b[39m\n \u001b[90m 142 |\u001b[39m     color\u001b[33m:\u001b[39m colors\u001b[33m.\u001b[39msurface\u001b[33m,\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 143 |\u001b[39m     p\n \u001b[90m     |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 144 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 145 |\u001b[39m\n \u001b[90m 146 |\u001b[39m   listContent\u001b[33m:\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  <global> (\u001b]8;;src/screens/CarrinhoTela.js:143:5\u0007src/screens/CarrinhoTela.js:143:5\u001b]8;;\u0007)\u001b[39m"]}
+{"_e":"metro:bundling:failed","_t":1789521629466,"id":null,"message":"Unable to resolve \"expo\" from \"index.js\"\n> 1 | import { registerRootComponent } from 'expo';\n    |                                        ^\n  2 |\n  3 | import App from './App';\n  4 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"expo\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"expo","originModulePath":"index.js"}
+{"_e":"metro:client_log","_t":1789521629470,"level":"error","data":["[UnableToResolveError: Unable to resolve module expo from /home/joaopaulo/Games/Cardapio_JoaoMilho_MuriloHenrique/cardapio/index.js: expo could not be found within the project.\n> 1 | import { registerRootComponent } from 'expo';\n    |                                        ^\n  2 |\n  3 | import App from './App';\n  4 |]"]}
